@@ -1,0 +1,1 @@
+# Create-an-EventBridge-Rule-to-get-notified-on-EC2-Instance-state-change-using-Terraform
